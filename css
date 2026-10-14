@@ -1,1 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+    background-image: url("/1fa3f7e4c5c68f26e4da061cdc5989ef.jpg");
+    background-position: center;
+    background-attachment: fixed;
+}
+h1{
+    font-family:"Arial Rounded MT Bold", "Comic Sans MS",cursive;
+    color:#9A1212;
+}
+img{
+    box-align: center;
+    border-radius:40px;
+    border-color: #9A1212;
+}
 
